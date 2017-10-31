@@ -1,5 +1,6 @@
-/* File : HelloProgram.java
- * Date : 10/30/17
+/* File     : HelloProgram.java
+ * Date     : 10/30/17
+ * Exercise : 2.1
  * --------------------------
  * This program displays "hello, world" on the screen.
  * It is inspired by the first program in Brian 
